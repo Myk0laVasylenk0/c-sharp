@@ -1,7 +1,7 @@
 ﻿
+// Testing our Hardware class
 using Computer;
 
-// Testing our Hardware class
 public class Program
 {
     public static void Main(string[] args)

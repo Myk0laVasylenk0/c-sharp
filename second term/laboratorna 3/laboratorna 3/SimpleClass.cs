@@ -65,7 +65,7 @@ namespace Computer
             return JsonConvert.DeserializeObject<Hardware>(json);
         }
 
-        // Destructor (finalizer): destroy object ant return appropriate message
+        // Destructor (finalizer): destroy object and return appropriate message
         ~Hardware(){
 
             Console.WriteLine("instance of Hardware clas was deleted");
