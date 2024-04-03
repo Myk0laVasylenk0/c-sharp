@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B945D26-C2B1-41D0-BB34-7A011208015C}|Task_2\\Task_2.csproj|c:\\users\\nicolay\\desktop\\kpi\\c#\\second term\\laboratorna 4\\task_2\\task_2\\utilities\\filestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B945D26-C2B1-41D0-BB34-7A011208015C}|Task_2\\Task_2.csproj|solutionrelative:task_2\\utilities\\filestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B945D26-C2B1-41D0-BB34-7A011208015C}|Task_2\\Task_2.csproj|c:\\users\\nicolay\\desktop\\kpi\\c#\\second term\\laboratorna 4\\task_2\\task_2\\management\\smartphonemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B945D26-C2B1-41D0-BB34-7A011208015C}|Task_2\\Task_2.csproj|solutionrelative:task_2\\management\\smartphonemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B945D26-C2B1-41D0-BB34-7A011208015C}|Task_2\\Task_2.csproj|c:\\users\\nicolay\\desktop\\kpi\\c#\\second term\\laboratorna 4\\task_2\\task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B945D26-C2B1-41D0-BB34-7A011208015C}|Task_2\\Task_2.csproj|solutionrelative:task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B945D26-C2B1-41D0-BB34-7A011208015C}|Task_2\\Task_2.csproj|c:\\users\\nicolay\\desktop\\kpi\\c#\\second term\\laboratorna 4\\task_2\\task_2\\models\\iphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B945D26-C2B1-41D0-BB34-7A011208015C}|Task_2\\Task_2.csproj|solutionrelative:task_2\\models\\iphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B945D26-C2B1-41D0-BB34-7A011208015C}|Task_2\\Task_2.csproj|c:\\users\\nicolay\\desktop\\kpi\\c#\\second term\\laboratorna 4\\task_2\\task_2\\task_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B945D26-C2B1-41D0-BB34-7A011208015C}|Task_2\\Task_2.csproj|solutionrelative:task_2\\task_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B945D26-C2B1-41D0-BB34-7A011208015C}|Task_2\\Task_2.csproj|c:\\users\\nicolay\\desktop\\kpi\\c#\\second term\\laboratorna 4\\task_2\\task_2\\models\\xiaomi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B945D26-C2B1-41D0-BB34-7A011208015C}|Task_2\\Task_2.csproj|solutionrelative:task_2\\models\\xiaomi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B945D26-C2B1-41D0-BB34-7A011208015C}|Task_2\\Task_2.csproj|c:\\users\\nicolay\\desktop\\kpi\\c#\\second term\\laboratorna 4\\task_2\\task_2\\models\\smartphonebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B945D26-C2B1-41D0-BB34-7A011208015C}|Task_2\\Task_2.csproj|solutionrelative:task_2\\models\\smartphonebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B945D26-C2B1-41D0-BB34-7A011208015C}|Task_2\\Task_2.csproj|c:\\users\\nicolay\\desktop\\kpi\\c#\\second term\\laboratorna 4\\task_2\\task_2\\models\\samsunggalaxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B945D26-C2B1-41D0-BB34-7A011208015C}|Task_2\\Task_2.csproj|solutionrelative:task_2\\models\\samsunggalaxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B945D26-C2B1-41D0-BB34-7A011208015C}|Task_2\\Task_2.csproj|c:\\users\\nicolay\\desktop\\kpi\\c#\\second term\\laboratorna 4\\task_2\\task_2\\models\\oneplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B945D26-C2B1-41D0-BB34-7A011208015C}|Task_2\\Task_2.csproj|solutionrelative:task_2\\models\\oneplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_2\\Task_2\\Utilities\\FileStorage.cs",
+              "RelativeDocumentMoniker": "Task_2\\Utilities\\FileStorage.cs",
+              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_2\\Task_2\\Utilities\\FileStorage.cs",
+              "RelativeToolTip": "Task_2\\Utilities\\FileStorage.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:14:09.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmartphoneManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_2\\Task_2\\Management\\SmartphoneManager.cs",
+              "RelativeDocumentMoniker": "Task_2\\Management\\SmartphoneManager.cs",
+              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_2\\Task_2\\Management\\SmartphoneManager.cs",
+              "RelativeToolTip": "Task_2\\Management\\SmartphoneManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:10:36.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Xiaomi.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_2\\Task_2\\Models\\Xiaomi.cs",
+              "RelativeDocumentMoniker": "Task_2\\Models\\Xiaomi.cs",
+              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_2\\Task_2\\Models\\Xiaomi.cs",
+              "RelativeToolTip": "Task_2\\Models\\Xiaomi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:09:31.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OnePlus.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_2\\Task_2\\Models\\OnePlus.cs",
+              "RelativeDocumentMoniker": "Task_2\\Models\\OnePlus.cs",
+              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_2\\Task_2\\Models\\OnePlus.cs",
+              "RelativeToolTip": "Task_2\\Models\\OnePlus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:08:54.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SamsungGalaxy.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_2\\Task_2\\Models\\SamsungGalaxy.cs",
+              "RelativeDocumentMoniker": "Task_2\\Models\\SamsungGalaxy.cs",
+              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_2\\Task_2\\Models\\SamsungGalaxy.cs",
+              "RelativeToolTip": "Task_2\\Models\\SamsungGalaxy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:08:01.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SmartphoneBase.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_2\\Task_2\\Models\\SmartphoneBase.cs",
+              "RelativeDocumentMoniker": "Task_2\\Models\\SmartphoneBase.cs",
+              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_2\\Task_2\\Models\\SmartphoneBase.cs",
+              "RelativeToolTip": "Task_2\\Models\\SmartphoneBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:07:10.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Iphone.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_2\\Task_2\\Models\\Iphone.cs",
+              "RelativeDocumentMoniker": "Task_2\\Models\\Iphone.cs",
+              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_2\\Task_2\\Models\\Iphone.cs",
+              "RelativeToolTip": "Task_2\\Models\\Iphone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:05:01.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task_2",
+              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_2\\Task_2\\Task_2.csproj",
+              "RelativeDocumentMoniker": "Task_2\\Task_2.csproj",
+              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_2\\Task_2\\Task_2.csproj",
+              "RelativeToolTip": "Task_2\\Task_2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T08:03:13.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_2\\Task_2\\Program.cs",
+              "RelativeDocumentMoniker": "Task_2\\Program.cs",
+              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_2\\Task_2\\Program.cs",
+              "RelativeToolTip": "Task_2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:01:54.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
