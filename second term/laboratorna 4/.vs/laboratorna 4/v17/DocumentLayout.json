@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_1\\Task_1\\Sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_1\\Task_1\\Sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\task_1\\task_1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:task_1\\task_1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_1\\Task_1\\SimpleFraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_1\\Task_1\\SimpleFraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_1\\Task_1\\Task_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_1\\Task_1\\Task_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\task_1\\task_1\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:task_1\\task_1\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\task_1\\task_1\\NewFile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:task_1\\task_1\\NewFile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\task_1\\task_1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:task_1\\task_1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,51 +47,86 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\task_1\\task_1\\Class1.cs",
-              "RelativeDocumentMoniker": "task_1\\task_1\\Class1.cs",
-              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\task_1\\task_1\\Class1.cs",
-              "RelativeToolTip": "task_1\\task_1\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Title": "Sign.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_1\\Task_1\\Sign.cs",
+              "RelativeDocumentMoniker": "Task_1\\Task_1\\Sign.cs",
+              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_1\\Task_1\\Sign.cs",
+              "RelativeToolTip": "Task_1\\Task_1\\Sign.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T07:08:29.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NewFile1",
-              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\task_1\\task_1\\NewFile1",
-              "RelativeDocumentMoniker": "task_1\\task_1\\NewFile1",
-              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\task_1\\task_1\\NewFile1",
-              "RelativeToolTip": "task_1\\task_1\\NewFile1",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-03T07:08:17.374Z",
+              "WhenOpened": "2024-04-03T09:30:41.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "NewFile",
-              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\task_1\\task_1\\NewFile",
-              "RelativeDocumentMoniker": "task_1\\task_1\\NewFile",
-              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\task_1\\task_1\\NewFile",
-              "RelativeToolTip": "task_1\\task_1\\NewFile",
+              "Title": "SimpleFraction.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_1\\Task_1\\SimpleFraction.cs",
+              "RelativeDocumentMoniker": "Task_1\\Task_1\\SimpleFraction.cs",
+              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_1\\Task_1\\SimpleFraction.cs",
+              "RelativeToolTip": "Task_1\\Task_1\\SimpleFraction.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-03T07:07:38.906Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:30:34.002Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\task_1\\task_1\\Program.cs",
-              "RelativeDocumentMoniker": "task_1\\task_1\\Program.cs",
-              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\task_1\\task_1\\Program.cs",
-              "RelativeToolTip": "task_1\\task_1\\Program.cs",
+              "Title": "Task_1.csproj",
+              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_1\\Task_1\\Task_1.csproj",
+              "RelativeDocumentMoniker": "Task_1\\Task_1\\Task_1.csproj",
+              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_1\\Task_1\\Task_1.csproj",
+              "RelativeToolTip": "Task_1\\Task_1\\Task_1.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T09:30:33.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_1\\Task_1\\Class1.cs",
+              "RelativeDocumentMoniker": "Task_1\\Task_1\\Class1.cs",
+              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_1\\Task_1\\Class1.cs",
+              "RelativeToolTip": "Task_1\\Task_1\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T07:08:29.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewFile1",
+              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_1\\Task_1\\NewFile1",
+              "RelativeDocumentMoniker": "Task_1\\Task_1\\NewFile1",
+              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_1\\Task_1\\NewFile1",
+              "RelativeToolTip": "Task_1\\Task_1\\NewFile1",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-03T07:08:17.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewFile",
+              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_1\\Task_1\\NewFile",
+              "RelativeDocumentMoniker": "Task_1\\Task_1\\NewFile",
+              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_1\\Task_1\\NewFile",
+              "RelativeToolTip": "Task_1\\Task_1\\NewFile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-03T07:07:38.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_1\\Task_1\\Program.cs",
+              "RelativeDocumentMoniker": "Task_1\\Task_1\\Program.cs",
+              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_1\\Task_1\\Program.cs",
+              "RelativeToolTip": "Task_1\\Task_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T07:06:03.119Z",
               "EditorCaption": ""

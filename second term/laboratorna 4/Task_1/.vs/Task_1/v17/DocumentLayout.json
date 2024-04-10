@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45EFCB4D-445E-42C0-962E-104BB8CD1094}|Task_1\\Task_1.csproj|c:\\users\\nicolay\\desktop\\kpi\\c#\\second term\\laboratorna 4\\task_1\\task_1\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45EFCB4D-445E-42C0-962E-104BB8CD1094}|Task_1\\Task_1.csproj|solutionrelative:task_1\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{45EFCB4D-445E-42C0-962E-104BB8CD1094}|Task_1\\Task_1.csproj|c:\\users\\nicolay\\desktop\\kpi\\c#\\second term\\laboratorna 4\\task_1\\task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45EFCB4D-445E-42C0-962E-104BB8CD1094}|Task_1\\Task_1.csproj|solutionrelative:task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EFCB4D-445E-42C0-962E-104BB8CD1094}|Task_1\\Task_1.csproj|c:\\users\\nicolay\\desktop\\kpi\\c#\\second term\\laboratorna 4\\task_1\\task_1\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45EFCB4D-445E-42C0-962E-104BB8CD1094}|Task_1\\Task_1.csproj|solutionrelative:task_1\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45EFCB4D-445E-42C0-962E-104BB8CD1094}|Task_1\\Task_1.csproj|c:\\users\\nicolay\\desktop\\kpi\\c#\\second term\\laboratorna 4\\task_1\\task_1\\sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,13 +46,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Number.cs",
               "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_1\\Task_1\\Number.cs",
               "RelativeDocumentMoniker": "Task_1\\Number.cs",
               "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_1\\Task_1\\Number.cs",
               "RelativeToolTip": "Task_1\\Number.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACcAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T07:42:18.769Z",
               "EditorCaption": ""
@@ -71,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\laboratorna 4\\Task_1\\Task_1\\Program.cs",
               "RelativeDocumentMoniker": "Task_1\\Program.cs",
@@ -79,7 +79,8 @@
               "RelativeToolTip": "Task_1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T07:11:43.981Z"
+              "WhenOpened": "2024-04-03T07:11:43.981Z",
+              "EditorCaption": ""
             }
           ]
         }

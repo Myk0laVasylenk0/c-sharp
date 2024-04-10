@@ -4,6 +4,10 @@ using Task_2.Utilities;
 using System;
 using System.Collections.Generic;
 
+// Продаж смартфонів. Визначити ієрархію телефонів. Відсортувати телефони по моделі, виробнику, розміру дисплея.
+// Знайти телефон, який відповідає вказаним параметрам. Підрахувати загальну кількість девайсів на складі.
+// Реалізувати пошук телефону по діапазону цін.
+
 class Program
 {
     static void Main(string[] args)
@@ -48,10 +52,10 @@ class Program
 
     static void InitializeSampleSmartphones(SmartphoneManager manager)
     {
-        manager.AddSmartphone(new IPhone("iPhone 12", 6.1f, 799, 10));
-        manager.AddSmartphone(new SamsungGalaxy("Galaxy S21", 6.2f, 999, 15));
-        manager.AddSmartphone(new Xiaomi("Mi 11", 6.81f, 749, 20));
-        manager.AddSmartphone(new OnePlus("OnePlus 9", 6.55f, 729, 25));
+        manager.AddSmartphone(new IPhone("iPhone 12", 6.1f, 799, 10, true));
+        manager.AddSmartphone(new SamsungGalaxy("Galaxy S21", 6.2f, 999, 15, true));
+        manager.AddSmartphone(new Xiaomi("Mi 11", 6.81f, 749, 20, 6000));
+        manager.AddSmartphone(new OnePlus("OnePlus 9", 6.55f, 729, 25, true));
     }
 
     static void DisplayPhones(IEnumerable<SmartphoneBase> phones)

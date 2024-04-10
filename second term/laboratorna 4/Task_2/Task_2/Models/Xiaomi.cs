@@ -8,13 +8,18 @@ namespace Task_2.Models
 {
     public class Xiaomi : SmartphoneBase
     {
-        // Additional properties or methods unique to Xiaomi smartphones
+        public int BatteryCapacity { get; set; } // Battery capacity in mAh
 
-        public Xiaomi(string model, float displaySize, decimal price, int stock)
+        public Xiaomi(string model, float displaySize, decimal price, int stock, int batteryCapacity)
             : base(model, "Xiaomi", displaySize, price, stock)
         {
+            BatteryCapacity = batteryCapacity;
         }
 
-        // Example of overriding a base class method or adding Xiaomi-specific functionality
+        public override string DescribeUniqueFeature()
+        {
+            return $"{Manufacturer} {Model} stands out with its high battery capacity of {BatteryCapacity}mAh, ensuring long-lasting performance.";
+        }
     }
 }
+

@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\lab_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB517593-928C-4A41-8543-B35BE6DA5178}|lab_5\\lab_5.csproj|c:\\users\\nicolay\\desktop\\kpi\\c#\\second term\\lab_5\\lab_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB517593-928C-4A41-8543-B35BE6DA5178}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB517593-928C-4A41-8543-B35BE6DA5178}|lab_5\\lab_5.csproj|c:\\users\\nicolay\\desktop\\kpi\\c#\\second term\\lab_5\\lab_5\\moped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB517593-928C-4A41-8543-B35BE6DA5178}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\moped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB517593-928C-4A41-8543-B35BE6DA5178}|lab_5\\lab_5.csproj|c:\\users\\nicolay\\desktop\\kpi\\c#\\second term\\lab_5\\lab_5\\motrcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB517593-928C-4A41-8543-B35BE6DA5178}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\motrcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB517593-928C-4A41-8543-B35BE6DA5178}|lab_5\\lab_5.csproj|c:\\users\\nicolay\\desktop\\kpi\\c#\\second term\\lab_5\\lab_5\\ihasdoors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB517593-928C-4A41-8543-B35BE6DA5178}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\ihasdoors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB517593-928C-4A41-8543-B35BE6DA5178}|lab_5\\lab_5.csproj|c:\\users\\nicolay\\desktop\\kpi\\c#\\second term\\lab_5\\lab_5\\twowheeledvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB517593-928C-4A41-8543-B35BE6DA5178}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\twowheeledvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB517593-928C-4A41-8543-B35BE6DA5178}|lab_5\\lab_5.csproj|c:\\users\\nicolay\\desktop\\kpi\\c#\\second term\\lab_5\\lab_5\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB517593-928C-4A41-8543-B35BE6DA5178}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB517593-928C-4A41-8543-B35BE6DA5178}|lab_5\\lab_5.csproj|c:\\users\\nicolay\\desktop\\kpi\\c#\\second term\\lab_5\\lab_5\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB517593-928C-4A41-8543-B35BE6DA5178}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB517593-928C-4A41-8543-B35BE6DA5178}|lab_5\\lab_5.csproj|c:\\users\\nicolay\\desktop\\kpi\\c#\\second term\\lab_5\\lab_5\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB517593-928C-4A41-8543-B35BE6DA5178}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB517593-928C-4A41-8543-B35BE6DA5178}|lab_5\\lab_5.csproj|c:\\users\\nicolay\\desktop\\kpi\\c#\\second term\\lab_5\\lab_5\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB517593-928C-4A41-8543-B35BE6DA5178}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Train.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\lab_5\\lab_5\\Train.cs",
+              "RelativeDocumentMoniker": "lab_5\\Train.cs",
+              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\lab_5\\lab_5\\Train.cs",
+              "RelativeToolTip": "lab_5\\Train.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:33:12.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Moped.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\lab_5\\lab_5\\Moped.cs",
+              "RelativeDocumentMoniker": "lab_5\\Moped.cs",
+              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\lab_5\\lab_5\\Moped.cs",
+              "RelativeToolTip": "lab_5\\Moped.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAhwDkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:32:39.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\lab_5\\lab_5\\Car.cs",
+              "RelativeDocumentMoniker": "lab_5\\Car.cs",
+              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\lab_5\\lab_5\\Car.cs",
+              "RelativeToolTip": "lab_5\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:31:42.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bicycle.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\lab_5\\lab_5\\Bicycle.cs",
+              "RelativeDocumentMoniker": "lab_5\\Bicycle.cs",
+              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\lab_5\\lab_5\\Bicycle.cs",
+              "RelativeToolTip": "lab_5\\Bicycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:30:43.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Motrcycle.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\lab_5\\lab_5\\Motrcycle.cs",
+              "RelativeDocumentMoniker": "lab_5\\Motrcycle.cs",
+              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\lab_5\\lab_5\\Motrcycle.cs",
+              "RelativeToolTip": "lab_5\\Motrcycle.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA0wBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:30:04.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TwoWheeledVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\lab_5\\lab_5\\TwoWheeledVehicle.cs",
+              "RelativeDocumentMoniker": "lab_5\\TwoWheeledVehicle.cs",
+              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\lab_5\\lab_5\\TwoWheeledVehicle.cs",
+              "RelativeToolTip": "lab_5\\TwoWheeledVehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:23:11.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IHasDoors.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\lab_5\\lab_5\\IHasDoors.cs",
+              "RelativeDocumentMoniker": "lab_5\\IHasDoors.cs",
+              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\lab_5\\lab_5\\IHasDoors.cs",
+              "RelativeToolTip": "lab_5\\IHasDoors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:20:45.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\lab_5\\lab_5\\Vehicle.cs",
+              "RelativeDocumentMoniker": "lab_5\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\lab_5\\lab_5\\Vehicle.cs",
+              "RelativeToolTip": "lab_5\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:08:20.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\lab_5\\lab_5\\Program.cs",
+              "RelativeDocumentMoniker": "lab_5\\Program.cs",
+              "ToolTip": "C:\\Users\\Nicolay\\Desktop\\KPI\\C#\\second term\\lab_5\\lab_5\\Program.cs",
+              "RelativeToolTip": "lab_5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:07:25.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

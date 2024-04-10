@@ -8,13 +8,18 @@ namespace Task_2.Models
 {
     public class OnePlus : SmartphoneBase
     {
-        // OnePlus-specific properties or methods can be defined here
+        public bool HasWarpCharge { get; set; }
 
-        public OnePlus(string model, float displaySize, decimal price, int stock)
+        public OnePlus(string model, float displaySize, decimal price, int stock, bool hasWarpCharge)
             : base(model, "OnePlus", displaySize, price, stock)
         {
+            HasWarpCharge = hasWarpCharge;
         }
 
-        // Potential for overriding methods or introducing new behaviors specific to OnePlus
+        public override string DescribeUniqueFeature()
+        {
+            return HasWarpCharge ? $"{Manufacturer} {Model} supports Warp Charge for fast charging." : base.DescribeUniqueFeature();
+        }
     }
 }
+

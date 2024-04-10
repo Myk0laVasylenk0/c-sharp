@@ -27,27 +27,6 @@ namespace Task_1
         }
 
 
-        //private SimpleFraction Simplify()
-        //{
-        //    int gcd = GCD(this.Numerator.Value, this.Denominator.Value);
-        //    this.Numerator = new Number(this.Numerator.Value / gcd);
-        //    this.Denominator = new Number(this.Denominator.Value / gcd);
-        //    return this; // Return the simplified fraction itself
-        //}
-
-        // GCD method remains the same as previously defined
-
-        //public SimpleFraction Add(SimpleFraction other)
-        //{
-        //    Console.WriteLine("Adding fractions");
-        //    // Simplified implementation; assumes both fractions have the same denominator.
-        //    // For different denominators, you'd need to find a common denominator and adjust the numerators accordingly.
-        //    int newNumerator = this.Sign.GetIsPositive() ? this.Numerator.Value : -this.Numerator.Value;
-        //    newNumerator += other.Sign.GetIsPositive() ? other.Numerator.Value : -other.Numerator.Value;
-        //    Sign newSign = Sign.FromBool(newNumerator >= 0);
-        //    return new SimpleFraction(Math.Abs(newNumerator), this.Denominator.Value);
-        //}
-
         public SimpleFraction Add(SimpleFraction other)
         {
             Console.WriteLine("Adding fractions");
@@ -66,14 +45,6 @@ namespace Task_1
         }
 
 
-        //public SimpleFraction Subtract(SimpleFraction other)
-        //{
-        //    Console.WriteLine("Subtracting fractions");
-        //    // Assuming same denominator for simplicity
-        //    int newNumerator = this.Sign.GetIsPositive() ? this.Numerator.Value : -this.Numerator.Value;
-        //    newNumerator -= other.Sign.GetIsPositive() ? other.Numerator.Value : -other.Numerator.Value;
-        //    return new SimpleFraction(Math.Abs(newNumerator), this.Denominator.Value);
-        //}
 
         public SimpleFraction Subtract(SimpleFraction other)
         {
